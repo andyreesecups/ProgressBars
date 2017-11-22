@@ -1,0 +1,13 @@
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\bin\Debug\ProgressBarIntro.exe.config
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\bin\Debug\ProgressBarIntro.exe
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\bin\Debug\ProgressBarIntro.pdb
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\obj\Debug\ProgressBarIntro.csprojResolveAssemblyReference.cache
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\obj\Debug\MainWindow.baml
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\obj\Debug\MainWindow.g.cs
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\obj\Debug\App.g.cs
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\obj\Debug\ProgressBarIntro_MarkupCompile.cache
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\obj\Debug\ProgressBarIntro.g.resources
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\obj\Debug\ProgressBarIntro.Properties.Resources.resources
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\obj\Debug\ProgressBarIntro.csproj.GenerateResource.Cache
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\obj\Debug\ProgressBarIntro.exe
+C:\Users\KPhillips\Documents\Visual Studio 2013\Projects\StandardsAndBasicsDemos\Class 4 - 11-10-2017\Class Demo\ProgressBarIntro\ProgressBarIntro\obj\Debug\ProgressBarIntro.pdb
